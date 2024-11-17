@@ -7,14 +7,14 @@
 - **Web Development**: Building dynamic, user-friendly web applications with React and JavaScript.<br>
 ### 🌟 Main Projects
 - **[GenLang](https://github.com/ditaa99/genLang)**: A project focused on formal languages and finite automaton. It showcases my interest in combining theoretical computer science with practical software development.<br>
-### 🔧 Tech Stack
+### 🔧 Main Tech Stack
 - **Languages**: Python, JavaScript
 - **Frameworks/Libraries**: React
 - **Tools**:  Git, Vite<br>
 ### 📚 Currently Learning
 I'm expanding my knowledge in:
 - Advanced Python techniques
-- Statistics and mathematical concepts for Data Science<br><br>
+- Statistics and mathematical concepts for Data Science<br>
 ### Outside of Tech
 - Hiking through scenic trails 🌲
 - Listening to music 🎵
