@@ -3,7 +3,7 @@
 <br><br>I'm a Computer Science graduate currently pursuing a Master's in Data Science. My journey in tech blends a passion for software development with a deep interest in teaching and explaining complex concepts clearly. <br>
 ### 💻 What I Do
 - **Machine Learning**: Exploring predictive models, data analysis, and all things ML.
-- **Finite Automata**: Delving into formal languages and automata theory.
+- **Finite Automata**: Interested in theoritical computer science such as Turing machines, Formal languages and automata theory.
 - **Web Development**: Building dynamic, user-friendly web applications with React and JavaScript.<br>
 ### 🌟 Main Projects
 - **[GenLang](https://github.com/ditaa99/genLang)**: A project focused on formal languages and finite automaton. It showcases my interest in combining theoretical computer science with practical software development.<br>
